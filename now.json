@@ -1,6 +1,6 @@
 {
   "name": "Sweet Dreams",
-  "alias": ["sweetDreams", "Eurythmics"],
+  "alias": ["sweetDreams", "Eurythmics", "sweet-dreams", "dreamz"],
   "version": 2,
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "github": {
